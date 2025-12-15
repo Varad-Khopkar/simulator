@@ -43,20 +43,7 @@ Designed for backend + frontend integration
 
 **--------------------------------------------------------------------**
 **🗂 Project Structure**
-**h-safe-main/
-│
-├── Simulator/
-│   ├── schema.py
-│   ├── rule_addition.py
-│   ├── rule_implementation.py
-│   ├── topology_simulation.py
-│   ├── pcap_analysis.py
-│   ├── post_attack_analysis.py
-│   ├── policy_order_analyzer.py
-│   ├── rule_effectiveness.py
-│   └── report_generator.py   (planned)
-│
-└── README.md**
+<img width="5980" height="6170" alt="Firewall_Simulation_System_Architecture (1)" src="https://github.com/user-attachments/assets/637c8111-59a4-4c4e-8fc6-512398557212" />
 
 
 **⚠️ The Simulator/ folder is the core engine.
