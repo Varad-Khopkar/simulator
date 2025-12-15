@@ -1,4 +1,5 @@
-🔥 H-SAFE
+**🔥 H-SAFE**
+
 **Firewall Policy Simulator & Security Analysis Platform**
 **_H-SAFE is a modular firewall policy simulation and analysis engine designed to evaluate firewall behavior, rule effectiveness, and security impact using synthetic traffic and real PCAP files — without deploying a live firewall._**
 --------------------------------------------------------------------
